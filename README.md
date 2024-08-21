@@ -12,13 +12,13 @@ Brute Ratel is a post-exploitation C2 at its core. However, it does not provide 
 
 ## Screenshots
 
-![Main Interface](https://cyberarsenal.org/attachments/main-png.476/)
+![Main Interface](https://i.ibb.co/QQ914kz/smbpivot.png)
 
-![SMB Pivot](https://cyberarsenal.org/attachments/smbpivot-png.477/)
+![SMB Pivot](https://i.ibb.co/S7PMG7H/main.png)
 
-![MITRE Integration](https://cyberarsenal.org/attachments/mitre-png.478/)
+![MITRE Integration](https://i.ibb.co/0fQ1b7w/mitre.png)
 
-![Brute Ratel in Action](https://cyberarsenal.org/attachments/img_3579-jpeg.2339/)
+![Brute Ratel in Action](https://i.ibb.co/wQDjnvL/IMG-3579.jpg)
 
 ## Download
 
